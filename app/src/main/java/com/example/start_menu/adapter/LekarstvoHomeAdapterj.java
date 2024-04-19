@@ -24,7 +24,7 @@ public class LekarstvoHomeAdapterj extends RecyclerView.Adapter<LekarstvoHomeAda
         this.onItemClickListener = onItemClickListener;
     }
 
-    public  class LekarstvoHolderj extends RecyclerView.ViewHolder {
+    public class LekarstvoHolderj extends RecyclerView.ViewHolder {
 
         private LekarstvoItemBinding binding = LekarstvoItemBinding.bind(itemView);
         public LekarstvoHolderj(@NonNull View itemView) {

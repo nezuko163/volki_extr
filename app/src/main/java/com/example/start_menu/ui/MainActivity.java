@@ -1,10 +1,11 @@
-package com.example.start_menu;
+package com.example.start_menu.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 import android.os.Bundle;
 
+import com.example.start_menu.R;
 import com.example.start_menu.databinding.MainBinding;
 
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.example.start_menu;
+package com.example.start_menu.ui;
 
 import android.os.Bundle;
 
@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 
 
+import com.example.start_menu.R;
 import com.example.start_menu.adapter.LekarstvoHomeAdapterj;
 import com.example.start_menu.adapter.onItemClickListener;
 import com.example.start_menu.databinding.FragmentHomeBinding;
